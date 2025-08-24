@@ -27,6 +27,8 @@ javac -s src -d bin .\src\view\Main.java .\src\controller\DistroController.java
 java -cp dist view.Main
 ```
 
+---
+
 2.b Importe a pasta com o projeto em sua IDE (Eclipse, Intellij, etc).
 
 2.b2 Execute ou compile para um jar executável.
