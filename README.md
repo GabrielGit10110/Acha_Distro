@@ -1,4 +1,4 @@
-# 👨‍🚀 Acha_Distro
+# 👨‍🚀 Acha Distro
 Algoritmo que identifica a distribuição linux no SO.
 
 ## 🤔 O que faz?
